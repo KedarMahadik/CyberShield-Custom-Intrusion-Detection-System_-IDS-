@@ -1,466 +1,472 @@
-2026-03-04 10:43:19,266 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
-2026-03-04 10:43:19,591 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:19,601 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
-2026-03-04 10:43:19,777 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:19,779 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
-2026-03-04 10:43:19,946 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:19,948 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
-2026-03-04 10:43:20,129 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:20,130 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
-2026-03-04 10:43:20,299 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:20,302 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
-2026-03-04 10:43:20,478 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:40,229 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
-2026-03-04 10:43:40,417 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:40,420 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
-2026-03-04 10:43:40,599 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:40,600 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
-2026-03-04 10:43:40,778 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:40,783 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
-2026-03-04 10:43:40,968 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:40,970 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
-2026-03-04 10:43:41,140 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:43:41,143 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
-2026-03-04 10:43:41,309 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:01,272 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
-2026-03-04 10:44:01,474 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:01,480 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
-2026-03-04 10:44:01,665 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:01,667 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
-2026-03-04 10:44:01,840 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:01,843 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
-2026-03-04 10:44:02,012 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:02,014 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
-2026-03-04 10:44:02,201 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:02,205 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
-2026-03-04 10:44:02,369 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:22,283 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
-2026-03-04 10:44:22,478 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:22,483 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
-2026-03-04 10:44:22,650 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:22,651 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
-2026-03-04 10:44:22,815 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:22,817 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
-2026-03-04 10:44:22,998 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:22,999 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
-2026-03-04 10:44:23,174 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:23,177 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
-2026-03-04 10:44:23,351 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:43,301 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
-2026-03-04 10:44:43,525 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:43,530 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
-2026-03-04 10:44:43,730 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:43,732 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
-2026-03-04 10:44:43,919 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:43,920 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
-2026-03-04 10:44:44,109 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:44,112 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
-2026-03-04 10:44:44,283 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:44,291 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
-2026-03-04 10:44:44,470 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:44:55,184 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:55,394 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:55,444 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:55,636 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:55,728 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:55,983 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:56,217 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:56,424 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:56,474 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:56,658 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:56,741 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:56,920 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:56,923 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
-2026-03-04 10:44:57,129 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:57,504 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:57,770 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:58,008 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:58,207 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:58,561 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:58,738 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:58,741 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
-2026-03-04 10:44:58,919 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:59,030 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:59,225 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:59,388 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:59,586 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:44:59,752 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:44:59,942 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:00,057 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:00,281 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:00,424 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:00,609 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:00,795 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:00,986 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:01,096 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:01,294 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:01,490 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:01,696 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:01,881 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:02,071 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:02,183 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:02,372 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:02,537 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:02,727 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:02,821 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:02,999 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:03,068 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:03,253 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:03,368 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:03,555 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:03,728 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:03,924 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:04,058 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:04,222 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:04,227 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:04,389 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:04,472 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:04,665 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:04,901 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:05,102 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:05,273 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:05,460 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:05,560 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:05,749 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:05,877 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:06,067 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:06,088 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:06,275 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:06,404 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:06,589 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:06,941 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:07,117 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:07,134 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:07,342 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:07,545 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:07,733 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:07,818 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:07,994 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:08,158 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:08,333 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:08,335 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
-2026-03-04 10:45:08,508 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:08,633 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:08,801 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:08,887 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:09,055 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:09,234 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:09,447 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:09,449 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:09,628 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:09,796 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:09,965 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:10,042 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:10,212 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:10,376 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:10,577 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:10,579 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:10,747 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:10,881 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:11,058 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:11,129 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:11,341 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:11,537 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:11,731 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:11,733 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:11,933 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:12,616 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:12,776 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:12,778 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:12,935 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:12,939 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:13,114 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:13,280 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:13,512 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:13,787 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:13,984 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:13,988 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:14,155 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:14,426 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:14,641 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:14,976 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:15,167 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:15,183 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:15,361 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:15,543 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:15,774 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:16,061 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:16,231 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:16,247 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:16,425 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:16,590 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:16,769 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:16,772 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
-2026-03-04 10:45:17,014 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:17,226 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:17,408 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:17,433 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:17,608 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:17,751 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:17,929 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:17,932 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:18,151 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:18,376 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:18,593 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:18,825 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:19,043 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:19,046 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:19,266 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:19,503 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:19,690 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:19,884 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:20,110 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:20,114 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:20,327 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:20,533 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:20,753 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:20,970 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:21,189 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:21,191 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:21,383 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:21,679 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:21,899 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:22,149 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:22,339 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:22,341 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:22,518 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:22,705 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:22,880 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:22,883 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
-2026-03-04 10:45:23,075 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:23,240 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:23,428 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:23,431 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:23,608 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:23,827 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:24,009 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:24,013 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:24,230 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:24,441 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:24,674 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:24,893 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:25,124 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:25,127 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:25,348 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:25,568 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:25,744 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:25,938 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:26,184 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:26,186 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:26,364 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:26,627 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:26,825 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:27,015 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:27,208 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:27,211 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:27,422 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:27,541 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:27,767 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:28,081 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:28,276 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:28,279 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:28,497 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:28,642 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:28,868 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:29,141 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:29,395 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:29,402 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:29,600 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:29,703 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:29,898 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:30,069 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:30,314 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:30,407 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:30,614 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:30,722 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:30,895 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:30,897 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
-2026-03-04 10:45:31,077 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:31,551 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:31,802 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:31,936 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:32,143 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:32,233 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:32,451 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:32,962 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:33,161 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:33,272 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:33,523 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:33,729 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:34,074 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:34,320 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:34,500 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:34,503 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
-2026-03-04 10:45:34,687 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:34,911 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:35,133 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:35,391 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:35,598 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:35,601 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:35,809 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:36,126 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:36,370 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:36,604 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:36,860 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:37,055 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:37,259 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:37,309 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:37,511 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:37,727 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:37,918 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:38,070 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:38,263 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:38,265 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
-2026-03-04 10:45:38,468 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:38,499 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
-2026-03-04 10:45:38,759 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
-2026-03-04 10:45:46,413 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
-2026-03-04 10:45:46,685 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:45:46,691 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
-2026-03-04 10:45:46,913 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:45:46,915 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
-2026-03-04 10:45:47,127 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:45:47,129 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
-2026-03-04 10:45:47,372 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:45:47,374 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
-2026-03-04 10:45:47,557 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:45:47,561 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
-2026-03-04 10:45:47,769 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:07,463 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
-2026-03-04 10:46:07,657 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:07,662 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
-2026-03-04 10:46:07,838 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:07,840 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
-2026-03-04 10:46:08,018 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:08,020 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
-2026-03-04 10:46:08,188 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:08,189 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
-2026-03-04 10:46:08,357 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:08,359 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
-2026-03-04 10:46:08,531 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:28,476 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
-2026-03-04 10:46:28,733 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:28,739 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
-2026-03-04 10:46:28,933 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:28,935 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
-2026-03-04 10:46:29,103 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:29,105 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
-2026-03-04 10:46:29,315 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:29,318 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
-2026-03-04 10:46:29,496 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:29,500 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
-2026-03-04 10:46:29,699 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:49,513 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
-2026-03-04 10:46:49,724 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:49,730 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
-2026-03-04 10:46:49,929 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:49,931 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
-2026-03-04 10:46:50,116 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:50,118 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
-2026-03-04 10:46:50,296 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:50,298 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
-2026-03-04 10:46:50,476 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:46:50,479 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
-2026-03-04 10:46:50,713 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:10,552 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
-2026-03-04 10:47:10,801 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:10,805 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
-2026-03-04 10:47:10,977 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:10,979 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
-2026-03-04 10:47:11,158 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:11,160 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
-2026-03-04 10:47:11,367 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:11,369 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
-2026-03-04 10:47:11,567 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:11,571 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
-2026-03-04 10:47:11,758 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:31,622 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
-2026-03-04 10:47:31,845 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:31,849 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
-2026-03-04 10:47:32,058 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:32,060 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
-2026-03-04 10:47:32,260 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:32,262 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
-2026-03-04 10:47:32,447 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:32,449 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
-2026-03-04 10:47:32,632 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:32,635 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
-2026-03-04 10:47:32,890 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:52,657 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
-2026-03-04 10:47:52,861 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:52,865 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
-2026-03-04 10:47:53,048 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:53,050 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
-2026-03-04 10:47:53,230 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:53,231 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
-2026-03-04 10:47:53,407 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:53,409 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
-2026-03-04 10:47:53,593 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:47:53,596 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
-2026-03-04 10:47:53,775 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:13,695 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
-2026-03-04 10:48:13,917 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:13,950 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
-2026-03-04 10:48:14,150 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:14,151 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
-2026-03-04 10:48:14,337 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:14,339 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
-2026-03-04 10:48:14,508 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:14,510 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
-2026-03-04 10:48:14,700 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:14,704 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
-2026-03-04 10:48:15,029 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:34,755 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
-2026-03-04 10:48:34,951 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:34,956 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
-2026-03-04 10:48:35,128 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:35,129 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
-2026-03-04 10:48:35,300 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:35,302 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
-2026-03-04 10:48:35,473 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:35,475 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
-2026-03-04 10:48:35,646 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:35,650 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
-2026-03-04 10:48:35,829 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:55,769 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
-2026-03-04 10:48:55,976 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:55,982 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
-2026-03-04 10:48:56,152 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:56,153 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
-2026-03-04 10:48:56,324 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:56,325 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
-2026-03-04 10:48:56,494 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:56,496 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
-2026-03-04 10:48:56,671 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:48:56,675 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
-2026-03-04 10:48:56,873 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:16,819 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
-2026-03-04 10:49:17,035 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:17,038 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
-2026-03-04 10:49:17,265 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:17,267 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
-2026-03-04 10:49:17,465 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:17,467 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
-2026-03-04 10:49:17,670 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:17,672 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
-2026-03-04 10:49:17,874 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:17,878 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
-2026-03-04 10:49:18,080 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:37,845 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
-2026-03-04 10:49:38,112 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:38,121 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
-2026-03-04 10:49:38,318 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:38,319 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
-2026-03-04 10:49:38,491 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:38,494 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
-2026-03-04 10:49:38,671 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:38,673 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
-2026-03-04 10:49:38,873 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 10:49:38,877 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
-2026-03-04 10:49:39,085 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
-2026-03-04 11:00:34,091 | WARNING | DDOS_DETECTED | Source: 185.199.110.154 | Rate: 301 pps
-2026-03-04 11:00:34,318 | ERROR | SYSTEM_ERROR | Failed to block 185.199.110.154: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_185.199.110.154' dir=in action=block remoteip=185.199.110.154' returned non-zero exit status 1.
-2026-03-04 11:00:34,321 | WARNING | DDOS_DETECTED | Source: 185.199.110.154 | Rate: 302 pps
-2026-03-04 11:00:34,512 | ERROR | SYSTEM_ERROR | Failed to block 185.199.110.154: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_185.199.110.154' dir=in action=block remoteip=185.199.110.154' returned non-zero exit status 1.
-2026-03-04 11:00:34,515 | WARNING | DDOS_DETECTED | Source: 185.199.110.154 | Rate: 303 pps
-2026-03-04 11:00:34,740 | ERROR | SYSTEM_ERROR | Failed to block 185.199.110.154: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_185.199.110.154' dir=in action=block remoteip=185.199.110.154' returned non-zero exit status 1.
+2026-03-04 11:49:33,491 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 301 pps
+2026-03-04 11:49:33,762 | CRITICAL | BLOCK_ACTION | IP: 142.251.151.119 | Reason: Threshold Exceeded
+2026-03-04 11:49:33,764 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 302 pps
+2026-03-04 11:49:33,766 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 303 pps
+2026-03-04 11:49:33,768 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 304 pps
+2026-03-04 11:49:33,769 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 305 pps
+2026-03-04 11:49:33,771 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 306 pps
+2026-03-04 11:49:33,772 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 307 pps
+2026-03-04 11:49:33,774 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 308 pps
+2026-03-04 11:49:33,775 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 309 pps
+2026-03-04 11:49:33,776 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 310 pps
+2026-03-04 11:49:33,777 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 311 pps
+2026-03-04 11:49:33,778 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 312 pps
+2026-03-04 11:49:33,779 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 313 pps
+2026-03-04 11:49:33,781 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 314 pps
+2026-03-04 11:49:33,782 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 315 pps
+2026-03-04 11:49:33,783 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 316 pps
+2026-03-04 11:49:33,785 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 317 pps
+2026-03-04 11:49:33,786 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 318 pps
+2026-03-04 11:49:33,788 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 319 pps
+2026-03-04 11:49:33,789 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 320 pps
+2026-03-04 11:49:33,790 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 321 pps
+2026-03-04 11:49:33,792 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 322 pps
+2026-03-04 11:49:33,794 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 323 pps
+2026-03-04 11:49:33,795 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 324 pps
+2026-03-04 11:49:33,797 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 325 pps
+2026-03-04 11:49:33,799 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 326 pps
+2026-03-04 11:49:33,801 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 327 pps
+2026-03-04 11:49:33,803 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 328 pps
+2026-03-04 11:49:33,805 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 329 pps
+2026-03-04 11:49:33,806 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 330 pps
+2026-03-04 11:49:33,808 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 331 pps
+2026-03-04 11:49:33,812 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 331 pps
+2026-03-04 11:49:33,814 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 331 pps
+2026-03-04 11:49:33,816 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 332 pps
+2026-03-04 11:49:33,818 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 333 pps
+2026-03-04 11:49:33,820 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 334 pps
+2026-03-04 11:49:33,821 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 335 pps
+2026-03-04 11:49:33,822 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 336 pps
+2026-03-04 11:49:33,824 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 337 pps
+2026-03-04 11:49:33,825 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 338 pps
+2026-03-04 11:49:33,827 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 339 pps
+2026-03-04 11:49:33,828 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 340 pps
+2026-03-04 11:49:33,830 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 341 pps
+2026-03-04 11:49:33,831 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 342 pps
+2026-03-04 11:49:33,834 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 343 pps
+2026-03-04 11:49:33,836 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 344 pps
+2026-03-04 11:49:33,838 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 345 pps
+2026-03-04 11:49:33,839 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 346 pps
+2026-03-04 11:49:33,841 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 347 pps
+2026-03-04 11:49:33,843 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 348 pps
+2026-03-04 11:49:33,844 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 349 pps
+2026-03-04 11:49:33,846 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 350 pps
+2026-03-04 11:49:33,847 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 351 pps
+2026-03-04 11:49:33,849 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 352 pps
+2026-03-04 11:49:33,851 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 353 pps
+2026-03-04 11:49:33,852 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 354 pps
+2026-03-04 11:49:33,854 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 355 pps
+2026-03-04 11:49:33,855 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 356 pps
+2026-03-04 11:49:33,857 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 357 pps
+2026-03-04 11:49:33,860 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 358 pps
+2026-03-04 11:49:33,861 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 359 pps
+2026-03-04 11:49:33,863 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 360 pps
+2026-03-04 11:49:33,865 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 361 pps
+2026-03-04 11:49:33,869 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 362 pps
+2026-03-04 11:49:33,871 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 363 pps
+2026-03-04 11:49:33,872 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 364 pps
+2026-03-04 11:49:33,874 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 365 pps
+2026-03-04 11:49:33,879 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 366 pps
+2026-03-04 11:49:33,883 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 367 pps
+2026-03-04 11:49:33,885 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 368 pps
+2026-03-04 11:49:33,888 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 369 pps
+2026-03-04 11:49:33,890 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 370 pps
+2026-03-04 11:49:33,892 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 371 pps
+2026-03-04 11:49:33,893 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 372 pps
+2026-03-04 11:49:33,895 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 373 pps
+2026-03-04 11:49:33,897 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 374 pps
+2026-03-04 11:49:33,899 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 375 pps
+2026-03-04 11:49:33,901 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 376 pps
+2026-03-04 11:49:33,902 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 377 pps
+2026-03-04 11:49:33,904 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 378 pps
+2026-03-04 11:49:33,905 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 379 pps
+2026-03-04 11:49:33,907 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 380 pps
+2026-03-04 11:49:33,909 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 381 pps
+2026-03-04 11:49:33,910 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 382 pps
+2026-03-04 11:49:33,912 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 383 pps
+2026-03-04 11:49:33,914 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 384 pps
+2026-03-04 11:49:33,916 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 385 pps
+2026-03-04 11:49:33,918 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 386 pps
+2026-03-04 11:49:33,919 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 387 pps
+2026-03-04 11:49:33,921 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 388 pps
+2026-03-04 11:49:33,923 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 389 pps
+2026-03-04 11:49:33,924 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 390 pps
+2026-03-04 11:49:33,925 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 391 pps
+2026-03-04 11:49:33,927 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 392 pps
+2026-03-04 11:49:33,929 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 393 pps
+2026-03-04 11:49:33,930 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 394 pps
+2026-03-04 11:49:33,932 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 395 pps
+2026-03-04 11:49:33,935 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 396 pps
+2026-03-04 11:49:33,936 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 397 pps
+2026-03-04 11:49:33,938 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 398 pps
+2026-03-04 11:49:33,939 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 399 pps
+2026-03-04 11:49:33,943 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 400 pps
+2026-03-04 11:49:33,945 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 399 pps
+2026-03-04 11:49:33,946 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 400 pps
+2026-03-04 11:49:33,948 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 401 pps
+2026-03-04 11:49:33,949 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:33,951 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:33,952 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:33,954 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:33,955 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:33,957 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 407 pps
+2026-03-04 11:49:33,958 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 408 pps
+2026-03-04 11:49:33,959 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 409 pps
+2026-03-04 11:49:33,961 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 410 pps
+2026-03-04 11:49:33,962 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 411 pps
+2026-03-04 11:49:33,963 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 412 pps
+2026-03-04 11:49:33,965 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 413 pps
+2026-03-04 11:49:33,980 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 414 pps
+2026-03-04 11:49:33,981 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 415 pps
+2026-03-04 11:49:33,983 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 416 pps
+2026-03-04 11:49:33,984 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 417 pps
+2026-03-04 11:49:33,986 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 418 pps
+2026-03-04 11:49:33,987 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 419 pps
+2026-03-04 11:49:33,994 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 420 pps
+2026-03-04 11:49:33,995 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 421 pps
+2026-03-04 11:49:33,997 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 422 pps
+2026-03-04 11:49:33,998 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 423 pps
+2026-03-04 11:49:34,000 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 424 pps
+2026-03-04 11:49:34,001 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 425 pps
+2026-03-04 11:49:34,004 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 426 pps
+2026-03-04 11:49:34,006 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 427 pps
+2026-03-04 11:49:34,007 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 426 pps
+2026-03-04 11:49:34,009 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 426 pps
+2026-03-04 11:49:34,011 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 425 pps
+2026-03-04 11:49:34,012 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 425 pps
+2026-03-04 11:49:34,014 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 424 pps
+2026-03-04 11:49:34,015 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 424 pps
+2026-03-04 11:49:34,016 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 423 pps
+2026-03-04 11:49:34,018 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 423 pps
+2026-03-04 11:49:34,020 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 424 pps
+2026-03-04 11:49:34,021 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 425 pps
+2026-03-04 11:49:34,024 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 426 pps
+2026-03-04 11:49:34,025 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 427 pps
+2026-03-04 11:49:34,027 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 427 pps
+2026-03-04 11:49:34,028 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 426 pps
+2026-03-04 11:49:34,030 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 426 pps
+2026-03-04 11:49:34,031 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 426 pps
+2026-03-04 11:49:34,033 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 426 pps
+2026-03-04 11:49:34,034 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 427 pps
+2026-03-04 11:49:34,035 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 428 pps
+2026-03-04 11:49:34,037 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 429 pps
+2026-03-04 11:49:34,039 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 430 pps
+2026-03-04 11:49:34,040 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 431 pps
+2026-03-04 11:49:34,041 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 432 pps
+2026-03-04 11:49:34,043 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 433 pps
+2026-03-04 11:49:34,044 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 434 pps
+2026-03-04 11:49:34,046 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 435 pps
+2026-03-04 11:49:34,047 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 436 pps
+2026-03-04 11:49:34,049 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 437 pps
+2026-03-04 11:49:34,055 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 438 pps
+2026-03-04 11:49:34,058 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 439 pps
+2026-03-04 11:49:34,060 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 440 pps
+2026-03-04 11:49:34,061 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 441 pps
+2026-03-04 11:49:34,063 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 442 pps
+2026-03-04 11:49:34,064 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 443 pps
+2026-03-04 11:49:34,065 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 444 pps
+2026-03-04 11:49:34,066 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 445 pps
+2026-03-04 11:49:34,067 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 446 pps
+2026-03-04 11:49:34,068 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 447 pps
+2026-03-04 11:49:34,069 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 448 pps
+2026-03-04 11:49:34,071 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 447 pps
+2026-03-04 11:49:34,072 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 447 pps
+2026-03-04 11:49:34,074 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 446 pps
+2026-03-04 11:49:34,075 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 445 pps
+2026-03-04 11:49:34,077 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 444 pps
+2026-03-04 11:49:34,078 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 444 pps
+2026-03-04 11:49:34,079 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 443 pps
+2026-03-04 11:49:34,086 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 442 pps
+2026-03-04 11:49:34,260 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 379 pps
+2026-03-04 11:49:34,261 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 380 pps
+2026-03-04 11:49:34,262 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 381 pps
+2026-03-04 11:49:34,351 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 341 pps
+2026-03-04 11:49:34,352 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 340 pps
+2026-03-04 11:49:34,353 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 340 pps
+2026-03-04 11:49:34,367 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 327 pps
+2026-03-04 11:49:34,368 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 326 pps
+2026-03-04 11:49:34,369 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 326 pps
+2026-03-04 11:49:34,370 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 327 pps
+2026-03-04 11:49:34,371 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 328 pps
+2026-03-04 11:49:34,373 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 329 pps
+2026-03-04 11:49:34,374 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 327 pps
+2026-03-04 11:49:34,376 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 326 pps
+2026-03-04 11:49:34,378 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 324 pps
+2026-03-04 11:49:34,379 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 324 pps
+2026-03-04 11:49:34,380 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 323 pps
+2026-03-04 11:49:34,381 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 323 pps
+2026-03-04 11:49:34,383 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 322 pps
+2026-03-04 11:49:34,385 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 321 pps
+2026-03-04 11:49:34,386 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 319 pps
+2026-03-04 11:49:34,388 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 318 pps
+2026-03-04 11:49:34,390 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 317 pps
+2026-03-04 11:49:34,391 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 315 pps
+2026-03-04 11:49:34,393 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 315 pps
+2026-03-04 11:49:34,394 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 316 pps
+2026-03-04 11:49:34,395 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 317 pps
+2026-03-04 11:49:34,397 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 317 pps
+2026-03-04 11:49:34,398 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 316 pps
+2026-03-04 11:49:34,400 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 315 pps
+2026-03-04 11:49:34,401 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 314 pps
+2026-03-04 11:49:34,403 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 313 pps
+2026-03-04 11:49:34,404 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 312 pps
+2026-03-04 11:49:34,406 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 312 pps
+2026-03-04 11:49:34,407 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 311 pps
+2026-03-04 11:49:34,409 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 309 pps
+2026-03-04 11:49:34,411 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 308 pps
+2026-03-04 11:49:34,412 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 308 pps
+2026-03-04 11:49:34,414 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 307 pps
+2026-03-04 11:49:34,415 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 306 pps
+2026-03-04 11:49:34,417 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 305 pps
+2026-03-04 11:49:34,418 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 305 pps
+2026-03-04 11:49:34,420 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 304 pps
+2026-03-04 11:49:34,421 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 305 pps
+2026-03-04 11:49:34,423 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 305 pps
+2026-03-04 11:49:34,426 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 302 pps
+2026-03-04 11:49:34,518 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 301 pps
+2026-03-04 11:49:34,520 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 302 pps
+2026-03-04 11:49:34,521 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 303 pps
+2026-03-04 11:49:34,522 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 304 pps
+2026-03-04 11:49:34,523 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 305 pps
+2026-03-04 11:49:34,524 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 306 pps
+2026-03-04 11:49:34,526 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 307 pps
+2026-03-04 11:49:34,529 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 308 pps
+2026-03-04 11:49:34,530 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 309 pps
+2026-03-04 11:49:34,530 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 310 pps
+2026-03-04 11:49:34,531 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 311 pps
+2026-03-04 11:49:34,542 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 312 pps
+2026-03-04 11:49:34,544 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 313 pps
+2026-03-04 11:49:34,551 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 314 pps
+2026-03-04 11:49:34,554 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 315 pps
+2026-03-04 11:49:34,557 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 316 pps
+2026-03-04 11:49:34,558 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 317 pps
+2026-03-04 11:49:34,559 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 318 pps
+2026-03-04 11:49:34,562 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 319 pps
+2026-03-04 11:49:34,582 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 320 pps
+2026-03-04 11:49:34,583 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 321 pps
+2026-03-04 11:49:34,584 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 322 pps
+2026-03-04 11:49:34,607 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 323 pps
+2026-03-04 11:49:34,608 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 324 pps
+2026-03-04 11:49:34,610 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 325 pps
+2026-03-04 11:49:34,611 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 326 pps
+2026-03-04 11:49:34,612 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 327 pps
+2026-03-04 11:49:34,613 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 328 pps
+2026-03-04 11:49:34,614 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 329 pps
+2026-03-04 11:49:34,617 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 330 pps
+2026-03-04 11:49:34,618 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 331 pps
+2026-03-04 11:49:34,619 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 332 pps
+2026-03-04 11:49:34,621 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 333 pps
+2026-03-04 11:49:34,622 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 334 pps
+2026-03-04 11:49:34,625 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 335 pps
+2026-03-04 11:49:34,626 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 336 pps
+2026-03-04 11:49:34,627 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 337 pps
+2026-03-04 11:49:34,628 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 338 pps
+2026-03-04 11:49:34,634 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 339 pps
+2026-03-04 11:49:34,635 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 340 pps
+2026-03-04 11:49:34,637 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 341 pps
+2026-03-04 11:49:34,638 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 342 pps
+2026-03-04 11:49:34,640 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 343 pps
+2026-03-04 11:49:34,641 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 344 pps
+2026-03-04 11:49:34,643 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 345 pps
+2026-03-04 11:49:34,645 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 346 pps
+2026-03-04 11:49:34,646 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 347 pps
+2026-03-04 11:49:34,647 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 348 pps
+2026-03-04 11:49:34,649 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 349 pps
+2026-03-04 11:49:34,651 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 350 pps
+2026-03-04 11:49:34,652 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 351 pps
+2026-03-04 11:49:34,654 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 352 pps
+2026-03-04 11:49:34,655 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 353 pps
+2026-03-04 11:49:34,657 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 354 pps
+2026-03-04 11:49:34,658 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 355 pps
+2026-03-04 11:49:34,660 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 356 pps
+2026-03-04 11:49:34,661 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 357 pps
+2026-03-04 11:49:34,667 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 358 pps
+2026-03-04 11:49:34,669 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 359 pps
+2026-03-04 11:49:34,671 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 360 pps
+2026-03-04 11:49:34,673 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 361 pps
+2026-03-04 11:49:34,674 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 362 pps
+2026-03-04 11:49:34,676 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 363 pps
+2026-03-04 11:49:34,677 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 364 pps
+2026-03-04 11:49:34,679 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 365 pps
+2026-03-04 11:49:34,680 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 366 pps
+2026-03-04 11:49:34,681 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 367 pps
+2026-03-04 11:49:34,682 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 368 pps
+2026-03-04 11:49:34,683 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 369 pps
+2026-03-04 11:49:34,685 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 370 pps
+2026-03-04 11:49:34,686 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 371 pps
+2026-03-04 11:49:34,716 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 372 pps
+2026-03-04 11:49:34,718 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 373 pps
+2026-03-04 11:49:34,720 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 374 pps
+2026-03-04 11:49:34,721 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 375 pps
+2026-03-04 11:49:34,722 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 376 pps
+2026-03-04 11:49:34,723 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 377 pps
+2026-03-04 11:49:34,726 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 378 pps
+2026-03-04 11:49:34,727 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 379 pps
+2026-03-04 11:49:34,729 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 380 pps
+2026-03-04 11:49:34,731 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 381 pps
+2026-03-04 11:49:34,732 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 382 pps
+2026-03-04 11:49:34,733 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 383 pps
+2026-03-04 11:49:34,735 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 384 pps
+2026-03-04 11:49:34,736 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 385 pps
+2026-03-04 11:49:34,738 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 386 pps
+2026-03-04 11:49:34,739 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 387 pps
+2026-03-04 11:49:34,741 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 388 pps
+2026-03-04 11:49:34,742 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 389 pps
+2026-03-04 11:49:34,744 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 390 pps
+2026-03-04 11:49:34,745 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 391 pps
+2026-03-04 11:49:34,747 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 392 pps
+2026-03-04 11:49:34,748 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 393 pps
+2026-03-04 11:49:34,750 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 394 pps
+2026-03-04 11:49:34,751 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 395 pps
+2026-03-04 11:49:34,753 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 396 pps
+2026-03-04 11:49:34,754 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 397 pps
+2026-03-04 11:49:34,757 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 398 pps
+2026-03-04 11:49:34,758 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 399 pps
+2026-03-04 11:49:34,760 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 400 pps
+2026-03-04 11:49:34,762 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 401 pps
+2026-03-04 11:49:34,763 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,765 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,766 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,768 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,769 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,771 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,772 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,774 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,775 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,776 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,777 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,778 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,779 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,780 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,781 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,783 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,784 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,786 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,787 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,788 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,790 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,791 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,792 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,793 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,795 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,796 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,797 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,798 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,799 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,800 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,801 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,802 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 407 pps
+2026-03-04 11:49:34,803 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 408 pps
+2026-03-04 11:49:34,804 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 408 pps
+2026-03-04 11:49:34,805 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 408 pps
+2026-03-04 11:49:34,805 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 409 pps
+2026-03-04 11:49:34,806 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 409 pps
+2026-03-04 11:49:34,807 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 410 pps
+2026-03-04 11:49:34,808 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 410 pps
+2026-03-04 11:49:34,809 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 411 pps
+2026-03-04 11:49:34,811 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 412 pps
+2026-03-04 11:49:34,812 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 412 pps
+2026-03-04 11:49:34,814 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 413 pps
+2026-03-04 11:49:34,816 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 413 pps
+2026-03-04 11:49:34,817 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 413 pps
+2026-03-04 11:49:34,818 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 413 pps
+2026-03-04 11:49:34,824 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 410 pps
+2026-03-04 11:49:34,825 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 411 pps
+2026-03-04 11:49:34,827 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 411 pps
+2026-03-04 11:49:34,828 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 411 pps
+2026-03-04 11:49:34,830 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 411 pps
+2026-03-04 11:49:34,838 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 408 pps
+2026-03-04 11:49:34,842 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,844 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,845 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,855 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 401 pps
+2026-03-04 11:49:34,856 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 401 pps
+2026-03-04 11:49:34,858 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 401 pps
+2026-03-04 11:49:34,859 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,861 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,862 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,863 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,864 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,866 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,867 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,869 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,870 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,872 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,873 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,882 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,884 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,886 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,886 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,887 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,889 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,890 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 407 pps
+2026-03-04 11:49:34,896 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,897 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,898 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,900 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,900 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,901 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,902 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 407 pps
+2026-03-04 11:49:34,903 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 407 pps
+2026-03-04 11:49:34,904 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 407 pps
+2026-03-04 11:49:34,905 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 408 pps
+2026-03-04 11:49:34,906 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 408 pps
+2026-03-04 11:49:34,908 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 408 pps
+2026-03-04 11:49:34,909 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 408 pps
+2026-03-04 11:49:34,922 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,932 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 397 pps
+2026-03-04 11:49:34,933 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 397 pps
+2026-03-04 11:49:34,935 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 398 pps
+2026-03-04 11:49:34,936 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 398 pps
+2026-03-04 11:49:34,937 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 398 pps
+2026-03-04 11:49:34,938 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 398 pps
+2026-03-04 11:49:34,939 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 398 pps
+2026-03-04 11:49:34,941 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 399 pps
+2026-03-04 11:49:34,942 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 400 pps
+2026-03-04 11:49:34,951 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 396 pps
+2026-03-04 11:49:34,959 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 391 pps
+2026-03-04 11:49:34,960 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 391 pps
+2026-03-04 11:49:34,960 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 392 pps
+2026-03-04 11:49:34,961 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 392 pps
+2026-03-04 11:49:34,962 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 393 pps
+2026-03-04 11:49:34,963 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 393 pps
+2026-03-04 11:49:34,964 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 393 pps
+2026-03-04 11:49:34,965 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 393 pps
+2026-03-04 11:49:34,965 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 394 pps
+2026-03-04 11:49:34,966 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 395 pps
+2026-03-04 11:49:34,967 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 396 pps
+2026-03-04 11:49:34,968 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 397 pps
+2026-03-04 11:49:34,970 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 398 pps
+2026-03-04 11:49:34,971 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 399 pps
+2026-03-04 11:49:34,973 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 400 pps
+2026-03-04 11:49:34,974 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 401 pps
+2026-03-04 11:49:34,976 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 402 pps
+2026-03-04 11:49:34,977 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 403 pps
+2026-03-04 11:49:34,979 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,980 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,982 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,983 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,985 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,986 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,988 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 404 pps
+2026-03-04 11:49:34,989 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:34,992 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,994 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,996 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:34,999 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:35,001 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:35,002 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:35,004 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:35,005 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:35,007 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:35,009 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:35,011 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 406 pps
+2026-03-04 11:49:35,012 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:35,014 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 405 pps
+2026-03-04 11:49:35,034 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 394 pps
+2026-03-04 11:49:35,056 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 383 pps
+2026-03-04 11:49:35,057 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 384 pps
+2026-03-04 11:49:35,060 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 384 pps
+2026-03-04 11:49:35,061 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 383 pps
+2026-03-04 11:49:35,064 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 382 pps
+2026-03-04 11:49:35,069 | WARNING | DDOS_DETECTED | Source: 142.251.151.119 | Rate: 379 pps
