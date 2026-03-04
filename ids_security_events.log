@@ -1,0 +1,466 @@
+2026-03-04 10:43:19,266 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
+2026-03-04 10:43:19,591 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:19,601 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
+2026-03-04 10:43:19,777 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:19,779 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
+2026-03-04 10:43:19,946 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:19,948 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
+2026-03-04 10:43:20,129 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:20,130 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
+2026-03-04 10:43:20,299 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:20,302 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 21
+2026-03-04 10:43:20,478 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:40,229 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
+2026-03-04 10:43:40,417 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:40,420 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
+2026-03-04 10:43:40,599 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:40,600 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
+2026-03-04 10:43:40,778 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:40,783 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
+2026-03-04 10:43:40,968 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:40,970 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
+2026-03-04 10:43:41,140 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:43:41,143 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 22
+2026-03-04 10:43:41,309 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:01,272 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
+2026-03-04 10:44:01,474 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:01,480 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
+2026-03-04 10:44:01,665 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:01,667 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
+2026-03-04 10:44:01,840 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:01,843 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
+2026-03-04 10:44:02,012 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:02,014 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
+2026-03-04 10:44:02,201 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:02,205 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 23
+2026-03-04 10:44:02,369 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:22,283 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
+2026-03-04 10:44:22,478 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:22,483 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
+2026-03-04 10:44:22,650 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:22,651 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
+2026-03-04 10:44:22,815 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:22,817 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
+2026-03-04 10:44:22,998 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:22,999 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
+2026-03-04 10:44:23,174 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:23,177 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 24
+2026-03-04 10:44:23,351 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:43,301 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
+2026-03-04 10:44:43,525 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:43,530 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
+2026-03-04 10:44:43,730 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:43,732 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
+2026-03-04 10:44:43,919 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:43,920 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
+2026-03-04 10:44:44,109 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:44,112 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
+2026-03-04 10:44:44,283 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:44,291 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 25
+2026-03-04 10:44:44,470 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:44:55,184 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:55,394 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:55,444 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:55,636 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:55,728 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:55,983 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:56,217 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:56,424 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:56,474 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:56,658 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:56,741 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:56,920 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:56,923 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
+2026-03-04 10:44:57,129 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:57,504 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:57,770 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:58,008 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:58,207 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:58,561 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:58,738 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:58,741 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
+2026-03-04 10:44:58,919 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:59,030 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:59,225 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:59,388 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:59,586 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:44:59,752 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:44:59,942 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:00,057 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:00,281 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:00,424 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:00,609 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:00,795 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:00,986 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:01,096 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:01,294 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:01,490 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:01,696 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:01,881 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:02,071 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:02,183 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:02,372 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:02,537 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:02,727 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:02,821 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:02,999 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:03,068 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:03,253 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:03,368 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:03,555 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:03,728 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:03,924 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:04,058 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:04,222 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:04,227 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:04,389 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:04,472 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:04,665 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:04,901 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:05,102 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:05,273 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:05,460 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:05,560 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:05,749 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:05,877 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:06,067 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:06,088 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:06,275 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:06,404 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:06,589 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:06,941 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:07,117 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:07,134 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:07,342 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:07,545 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:07,733 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:07,818 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:07,994 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:08,158 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:08,333 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:08,335 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
+2026-03-04 10:45:08,508 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:08,633 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:08,801 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:08,887 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:09,055 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:09,234 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:09,447 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:09,449 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:09,628 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:09,796 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:09,965 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:10,042 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:10,212 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:10,376 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:10,577 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:10,579 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:10,747 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:10,881 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:11,058 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:11,129 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:11,341 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:11,537 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:11,731 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:11,733 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:11,933 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:12,616 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:12,776 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:12,778 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:12,935 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:12,939 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:13,114 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:13,280 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:13,512 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:13,787 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:13,984 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:13,988 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:14,155 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:14,426 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:14,641 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:14,976 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:15,167 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:15,183 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:15,361 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:15,543 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:15,774 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:16,061 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:16,231 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:16,247 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:16,425 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:16,590 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:16,769 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:16,772 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
+2026-03-04 10:45:17,014 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:17,226 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:17,408 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:17,433 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:17,608 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:17,751 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:17,929 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:17,932 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:18,151 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:18,376 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:18,593 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:18,825 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:19,043 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:19,046 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:19,266 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:19,503 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:19,690 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:19,884 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:20,110 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:20,114 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:20,327 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:20,533 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:20,753 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:20,970 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:21,189 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:21,191 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:21,383 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:21,679 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:21,899 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:22,149 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:22,339 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:22,341 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:22,518 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:22,705 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:22,880 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:22,883 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
+2026-03-04 10:45:23,075 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:23,240 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:23,428 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:23,431 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:23,608 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:23,827 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:24,009 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:24,013 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:24,230 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:24,441 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:24,674 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:24,893 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:25,124 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:25,127 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:25,348 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:25,568 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:25,744 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:25,938 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:26,184 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:26,186 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:26,364 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:26,627 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:26,825 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:27,015 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:27,208 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:27,211 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:27,422 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:27,541 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:27,767 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:28,081 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:28,276 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:28,279 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:28,497 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:28,642 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:28,868 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:29,141 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:29,395 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:29,402 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:29,600 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:29,703 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:29,898 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:30,069 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:30,314 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:30,407 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:30,614 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:30,722 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:30,895 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:30,897 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
+2026-03-04 10:45:31,077 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:31,551 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:31,802 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:31,936 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:32,143 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:32,233 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:32,451 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:32,962 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:33,161 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:33,272 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:33,523 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:33,729 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:34,074 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:34,320 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:34,500 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:34,503 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
+2026-03-04 10:45:34,687 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:34,911 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:35,133 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:35,391 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:35,598 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:35,601 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:35,809 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:36,126 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:36,370 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:36,604 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:36,860 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:37,055 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:37,259 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:37,309 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:37,511 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:37,727 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:37,918 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:38,070 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:38,263 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:38,265 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 302 pps
+2026-03-04 10:45:38,468 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:38,499 | WARNING | DDOS_DETECTED | Source: 50.116.1.184 | Rate: 301 pps
+2026-03-04 10:45:38,759 | ERROR | SYSTEM_ERROR | Failed to block 50.116.1.184: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_50.116.1.184' dir=in action=block remoteip=50.116.1.184' returned non-zero exit status 1.
+2026-03-04 10:45:46,413 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
+2026-03-04 10:45:46,685 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:45:46,691 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
+2026-03-04 10:45:46,913 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:45:46,915 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
+2026-03-04 10:45:47,127 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:45:47,129 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
+2026-03-04 10:45:47,372 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:45:47,374 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
+2026-03-04 10:45:47,557 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:45:47,561 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 26
+2026-03-04 10:45:47,769 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:07,463 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
+2026-03-04 10:46:07,657 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:07,662 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
+2026-03-04 10:46:07,838 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:07,840 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
+2026-03-04 10:46:08,018 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:08,020 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
+2026-03-04 10:46:08,188 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:08,189 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
+2026-03-04 10:46:08,357 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:08,359 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 27
+2026-03-04 10:46:08,531 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:28,476 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
+2026-03-04 10:46:28,733 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:28,739 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
+2026-03-04 10:46:28,933 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:28,935 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
+2026-03-04 10:46:29,103 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:29,105 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
+2026-03-04 10:46:29,315 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:29,318 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
+2026-03-04 10:46:29,496 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:29,500 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 28
+2026-03-04 10:46:29,699 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:49,513 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
+2026-03-04 10:46:49,724 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:49,730 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
+2026-03-04 10:46:49,929 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:49,931 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
+2026-03-04 10:46:50,116 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:50,118 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
+2026-03-04 10:46:50,296 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:50,298 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
+2026-03-04 10:46:50,476 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:46:50,479 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 29
+2026-03-04 10:46:50,713 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:10,552 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
+2026-03-04 10:47:10,801 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:10,805 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
+2026-03-04 10:47:10,977 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:10,979 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
+2026-03-04 10:47:11,158 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:11,160 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
+2026-03-04 10:47:11,367 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:11,369 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
+2026-03-04 10:47:11,567 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:11,571 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 30
+2026-03-04 10:47:11,758 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:31,622 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
+2026-03-04 10:47:31,845 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:31,849 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
+2026-03-04 10:47:32,058 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:32,060 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
+2026-03-04 10:47:32,260 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:32,262 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
+2026-03-04 10:47:32,447 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:32,449 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
+2026-03-04 10:47:32,632 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:32,635 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 31
+2026-03-04 10:47:32,890 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:52,657 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
+2026-03-04 10:47:52,861 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:52,865 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
+2026-03-04 10:47:53,048 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:53,050 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
+2026-03-04 10:47:53,230 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:53,231 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
+2026-03-04 10:47:53,407 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:53,409 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
+2026-03-04 10:47:53,593 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:47:53,596 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 32
+2026-03-04 10:47:53,775 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:13,695 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
+2026-03-04 10:48:13,917 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:13,950 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
+2026-03-04 10:48:14,150 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:14,151 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
+2026-03-04 10:48:14,337 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:14,339 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
+2026-03-04 10:48:14,508 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:14,510 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
+2026-03-04 10:48:14,700 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:14,704 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 33
+2026-03-04 10:48:15,029 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:34,755 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
+2026-03-04 10:48:34,951 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:34,956 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
+2026-03-04 10:48:35,128 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:35,129 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
+2026-03-04 10:48:35,300 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:35,302 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
+2026-03-04 10:48:35,473 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:35,475 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
+2026-03-04 10:48:35,646 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:35,650 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 34
+2026-03-04 10:48:35,829 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:55,769 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
+2026-03-04 10:48:55,976 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:55,982 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
+2026-03-04 10:48:56,152 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:56,153 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
+2026-03-04 10:48:56,324 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:56,325 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
+2026-03-04 10:48:56,494 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:56,496 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
+2026-03-04 10:48:56,671 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:48:56,675 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 35
+2026-03-04 10:48:56,873 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:16,819 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
+2026-03-04 10:49:17,035 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:17,038 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
+2026-03-04 10:49:17,265 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:17,267 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
+2026-03-04 10:49:17,465 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:17,467 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
+2026-03-04 10:49:17,670 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:17,672 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
+2026-03-04 10:49:17,874 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:17,878 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 36
+2026-03-04 10:49:18,080 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:37,845 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
+2026-03-04 10:49:38,112 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:38,121 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
+2026-03-04 10:49:38,318 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:38,319 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
+2026-03-04 10:49:38,491 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:38,494 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
+2026-03-04 10:49:38,671 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:38,673 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
+2026-03-04 10:49:38,873 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 10:49:38,877 | WARNING | PORT_SCAN | Source: 10.30.74.133 | Unique Ports: 37
+2026-03-04 10:49:39,085 | ERROR | SYSTEM_ERROR | Failed to block 10.30.74.133: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_10.30.74.133' dir=in action=block remoteip=10.30.74.133' returned non-zero exit status 1.
+2026-03-04 11:00:34,091 | WARNING | DDOS_DETECTED | Source: 185.199.110.154 | Rate: 301 pps
+2026-03-04 11:00:34,318 | ERROR | SYSTEM_ERROR | Failed to block 185.199.110.154: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_185.199.110.154' dir=in action=block remoteip=185.199.110.154' returned non-zero exit status 1.
+2026-03-04 11:00:34,321 | WARNING | DDOS_DETECTED | Source: 185.199.110.154 | Rate: 302 pps
+2026-03-04 11:00:34,512 | ERROR | SYSTEM_ERROR | Failed to block 185.199.110.154: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_185.199.110.154' dir=in action=block remoteip=185.199.110.154' returned non-zero exit status 1.
+2026-03-04 11:00:34,515 | WARNING | DDOS_DETECTED | Source: 185.199.110.154 | Rate: 303 pps
+2026-03-04 11:00:34,740 | ERROR | SYSTEM_ERROR | Failed to block 185.199.110.154: Command 'netsh advfirewall firewall add rule name='CyberShield_Block_185.199.110.154' dir=in action=block remoteip=185.199.110.154' returned non-zero exit status 1.
