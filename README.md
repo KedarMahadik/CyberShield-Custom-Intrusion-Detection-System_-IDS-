@@ -1,7 +1,7 @@
 
 
 ## 🛠️ Phase 1: Installation & Best Setup
-
+its soc lv 1 security level project
 To ensure the project runs smoothly on Windows, we will isolate the dependencies and configure the environment variables.
 
 ### **1. System Requirements**
